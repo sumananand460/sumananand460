@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Suman Anand
 
-### 💻 Aspiring Python Full Stack Developer | Django Developer | Backend Enthusias
+### 💻 Aspiring Python Full Stack Developer | Django Developer | Backend Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+%7C+MySQL+%7C+REST+APIs;Building+Real-World+Projects;Always+Learning+Something+New" alt="Typing SVG"/>
 
