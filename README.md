@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Suman Anand
+# 👋 Hi, I'm Suman Anan
 
 ### 💻 Aspiring Python Full Stack Developer | Django Developer | Backend Enthusiast
 
