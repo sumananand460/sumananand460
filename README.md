@@ -1,5 +1,4 @@
 <div align="center">
-
 # 👋 Hi, I'm Suman Anand
 
 ### 💻 Aspiring Python Full Stack Developer | Django Developer | Backend Enthusiast
